@@ -1,1 +1,2 @@
 # odin-recipes
+Current project to putting the skills I have learnt to build a recipe website with a main indec page which will have links to a few recipes. I had to double check how to set up a new repository on Git Hub and how to edit the README file. Note - load file via VS and add a note.
